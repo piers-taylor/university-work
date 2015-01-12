@@ -6,7 +6,7 @@ int main()
   scanf ("%i\n", &i);
   scanf ("%i", &j);
   k = i + j;
-  printf("i + j = %i\n", i);
+  printf("i + j = %i\n", k);
     return 0;
 }
 
