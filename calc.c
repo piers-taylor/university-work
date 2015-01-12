@@ -11,6 +11,8 @@ int main()
   printf("i - j = %i\n", k);
   k = i * j;
   printf("i * j = %i\n", k);
+  k = i / j;
+  printf("i / j = %i\n", k);
     return 0;
 }
 
